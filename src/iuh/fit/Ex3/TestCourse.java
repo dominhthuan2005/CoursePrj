@@ -1,5 +1,15 @@
+/*
+ * @ Do Minh Thuan.java    1.0 21
+ * Copyright (c) 2024 IUH. All rights reserved
+ *
+ */
 package iuh.fit.Ex3;
-
+/*
+ * @description:
+ * @author: Minh Thuan
+ * @date: 28/08/2024
+ * @version: 1.0
+ */
 import java.util.Scanner;
 public class TestCourse {
     public static void main(String[] args) {
